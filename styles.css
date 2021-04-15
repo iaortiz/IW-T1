@@ -1,0 +1,83 @@
+
+.bck-1{
+    background-image: url(https://i.pinimg.com/originals/5a/fd/7f/5afd7f1592b7674c120a4c4dd7c20dd4.jpg);
+    position: center;
+    width: 100%;
+    height: 50%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 10px;
+}
+.bck-2{
+    position: static;
+    height: 150%;
+    margin-bottom: 10px;
+}
+.bck-3{
+    background-image: url(https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2017/04/crear-un-menu-horizontal-simple-css-1280x720.jpg);
+    position: absolute;
+    width: 100%;
+    height: 50%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 10px;
+}
+.bck-4{
+    background-color: white;
+    position: static;
+    height: 125%;
+    margin-top: 350px;
+}
+.bck-5{
+    background-image: url(https://www.wallpapertip.com/wmimgs/22-221456_git-branch.jpg);
+    position: absolute;
+    width: 100%;
+    height: 50%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 10px;
+}
+
+.tittle-1{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 4em;
+    text-align: center;
+    padding: 2em;
+    text-shadow: 2px 2px black;
+}
+
+.text{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5em ;
+    padding: 10%;
+    color: black;
+}
+.text-1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5em ;
+    padding: 10%;
+    color: black;
+    text-shadow: 0.5px 0.5px black;
+}
+.h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    float: left;
+    margin-left: 3em;
+}
+.box-1{
+    float: left;
+    width: 50%;
+}
+.box-2{
+    float: right;
+    width: 50%;
+    background-color: whi;
+}
+.img-1{
+    width: 25em ; 
+    padding: 10%;
+}
+.img-2{
+    width: 25em ; 
+    padding: 10%;
+    width: 80%;
+}
+
